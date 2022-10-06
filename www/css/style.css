@@ -68,9 +68,10 @@
 
     body{
         background-color: skyblue;
-    
+    }
     input[type=number] {text-align: right;}
 
     button{
         color: blue;
+        font-family: Times;
     }
